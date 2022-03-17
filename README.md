@@ -1,5 +1,5 @@
 <h1>🐱‍👤Olá mundo🐱‍👤</h1>
-  <h2>Me chamo Igor mas pode me chamar de <b>ENABLEX</b>😝</h2>
+  <h2>Me chamo Igor mas muitos me chamam de <i>ENABLEX</i>😝</h2>
 
 <div align="center">
   <a href="https://github.com/1enablex">
