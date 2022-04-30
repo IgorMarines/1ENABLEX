@@ -13,6 +13,8 @@ src="https://cdn.discordapp.com/attachments/946812447770157126/94910278669870694
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img align="left" alt="html-pic" height="60" style=" border: radius 6px;900px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+<img align="left" alt="html-pic" height="60" style=" border: radius 6px;900px;"
+src="https://img.icons8.com/color/344/javascript--v1.png" />
 
 </div>
 
