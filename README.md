@@ -7,8 +7,8 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1enablex&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="left" alt="Ena-pic" height="150" style=" border-radius:100%;"
-src="blob:https://web.whatsapp.com/982b3eed-6c75-42d2-83e4-52682e0f6e30">
+  <img align="left" alt="Ena-pic" height="150" style=" border-radius:50em;"
+src="https://cdn.discordapp.com/attachments/965346685624655922/969755092284760074/unknown.png">
 <img align="left" alt="html-pic" height="60" style=" border: radius 6px;900px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img align="left" alt="html-pic" height="60" style=" border: radius 6px;900px;"
