@@ -17,6 +17,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark
 src="https://img.icons8.com/color/344/javascript--v1.png" />
 <img align="left" alt="html-pic" height="60" style=" border: radius 6px;900px;"
 src="https://cdn.discordapp.com/attachments/963785559103385633/969754165070938152/unknown.png" />
+<img align="left" alt="html-pic" height="60" style=" border: radius 6px;900px;"
+src="https://img.icons8.com/color/344/bootstrap.png" />
+
 
 </div>
 
