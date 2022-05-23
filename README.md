@@ -20,7 +20,6 @@ src="https://cdn.discordapp.com/attachments/963785559103385633/96975416507093815
 <img align="left" alt="html-pic" height="60" style=" border: radius 6px;900px;"
 src="https://img.icons8.com/color/344/bootstrap.png" /><br><hr>
 
-<img align="left" alt="html-pic" style=" border: radius 6px;900px;"
-src="[https://cdn.discordapp.com/attachments/963785559103385633/969754165070938152/unknown.png](https://cdn.discordapp.com/attachments/902393811177709608/978384803080597565/jogar_online_em_console_que_nao_tem_modo_online_ISSO_SIM_EH_SER_BANDIDAO.gif)" />
+<img src="https://cdn.discordapp.com/attachments/902393811177709608/978384803080597565/jogar_online_em_console_que_nao_tem_modo_online_ISSO_SIM_EH_SER_BANDIDAO.gif" alt="">
 </div>
 
