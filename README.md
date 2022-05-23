@@ -20,8 +20,9 @@ src="https://cdn.discordapp.com/attachments/963785559103385633/96975416507093815
 <img align="left" alt="html-pic" height="60" style=" border: radius 6px;900px;"
 src="https://img.icons8.com/color/344/bootstrap.png" /><br><hr>
 
+![a753a1d7a63ceebebd970643b59f2cde](https://user-images.githubusercontent.com/100822801/169897028-97daef13-e8c4-48ae-848a-63484f78e405.gif)
 
-![jogar online em console que nao tem modo online ISSO SIM EH SER BANDIDAO](https://user-images.githubusercontent.com/100822801/169896427-d32347c7-c13f-40c5-b074-29f1245b894b.gif)
+
 
 </div>
 
